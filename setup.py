@@ -18,7 +18,7 @@ setuptools.setup(
     packages=setuptools.find_packages(),
     install_requires=[
         "PyQt5>=5.15.0",
-        "PyQt5-Frameless-Window>=0.4.0",
+        "PyQt5-Frameless-Window>=0.8.0",
         "darkdetect",
     ],
     extras_require = {
